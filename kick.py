@@ -8,7 +8,6 @@ from bowtie.visual import Markdown, Plotly
 from bowtie.control import Dropdown
 
 import plotly.graph_objs as go
-import plotlywrapper as pw
 
 import pandas as pd
 
