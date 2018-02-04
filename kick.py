@@ -126,7 +126,7 @@ def update_counts(categories=None, layout=None):
 @command
 def main():
     app = App(rows=4, sidebar=False, debug=True)
-    # set first to rows to auto size
+    # set first two rows to auto size
     app.rows[0].auto()
     app.rows[1].auto()
 
