@@ -79,7 +79,6 @@ def update_pledged(categories=None):
 def update_counts(categories=None, layout=None):
     categories = get_categories(categories)
 
-    print(layout)
     if layout is not None and 'xaxis.autorange' not in layout:
         x0 = pendulum.parse(layout['xaxis.range[0]'])
         x1 = pendulum.parse(layout['xaxis.range[1]'])
