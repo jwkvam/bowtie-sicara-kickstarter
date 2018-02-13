@@ -3,4 +3,4 @@
 https://bowtie-kickstarter.herokuapp.com/
 
 Write the dashboard from [this blog post](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f)
-in Bowtie.
+in [Bowtie](https://github.com/jwkvam/bowtie).
